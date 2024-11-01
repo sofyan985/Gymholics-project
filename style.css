@@ -297,7 +297,7 @@ html::-webkit-scrollbar-thumb{
 /* counter sec */
 
 .counter{
-    background: url(../images/bg.jpg) no-repeat;
+    background: url(bg.jpg) no-repeat;
     background-attachment: fixed;
 }
 
