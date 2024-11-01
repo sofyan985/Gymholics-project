@@ -152,7 +152,7 @@ html::-webkit-scrollbar-thumb{
 /* home portion */
 
 .home{
-    background: url(../images/home.jpg) no-repeat;
+    background: url(home.jpg) no-repeat;
     min-height: 110vh;
     display: flex;
     align-items: center;
